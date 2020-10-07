@@ -1,15 +1,17 @@
-## Your Name
+## Alexander Glynn
 
 Welcome to my website!
 
-### Added Feature #1
+### Collapsed "More info section"  #1
 
-Description
+I added a toggelable "more info" section to the about page. Clicking on the "more information" button expands the collapsed section through changing a state.
 
-Screenshots
+![screenshot1](src/assets/screenshot1.jpg)
+![screenshot2](src/assets/screenshot2.jpg)
 
-### Added Feature #2
+### Education Page
 
-Description
+I added an Education page. Clicking on one of the places I was enrolled pulls up more info at the bottom of the screen. This was done through similar methods to how the experience section worked, formatted slightly differently.
 
-Screenshots
+![screenshot3](src/assets/screenshot3.jpg)
+![screenshot4](src/assets/screenshot4.jpg)

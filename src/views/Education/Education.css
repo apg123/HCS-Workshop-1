@@ -1,0 +1,46 @@
+.education-background {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 80px;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    color: black;
+    padding: 16px 0;
+  }
+  
+  .education-background:hover {
+    transform: translateX(8px);
+    color: #121212;
+    background-image: linear-gradient(to left, white, #ffb7a0);
+  }
+  
+  .education-image {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .education-info {
+    flex: 2;
+    padding: 16px;
+  }
+
+  .education-full-background{
+
+  }
+
+  .moreinfo-background{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: calc(100%);
+    background: rgb(118, 180, 231);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 48px;
+    justify-content: center;
+    align-items: center;
+    margin: 32px;
+  }
